@@ -1,0 +1,23 @@
+{
+  "name": "lon",
+  "version": "1.0.0",
+  "description": "LON (List of Notes) is a truly programmable sequencer.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyntaz/lon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyntaz/lon/issues"
+  },
+  "homepage": "https://github.com/Kyntaz/lon#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vite": "^3.1.8"
+  }
+}
