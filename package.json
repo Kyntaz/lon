@@ -19,5 +19,8 @@
   "devDependencies": {
     "typescript": "^4.8.4",
     "vite": "^3.1.8"
+  },
+  "dependencies": {
+    "camoes": "https://github.com/Kyntaz/camoes/releases/download/v0.0.1/camoes-0.0.1.tgz"
   }
 }
